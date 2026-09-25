@@ -1,3 +1,5 @@
+[![CI/CD Pipeline](https://github.com/dialva98/ArquiSoft20262_Lab02/actions/workflows/build.yml/badge.svg)](https://github.com/dialva98/ArquiSoft20262_Lab02/actions/workflows/build.yml)
+
 # Lab2v2026
 
   Implementation of a Simple App with the next operations:
@@ -40,9 +42,3 @@
   ```shell
   $ mvwn -B package -DskipTests --file pom.xml
   ```
-
-
-
-
-
-[![CI/CD Pipeline](https://github.com/dialva98/ArquiSoft20262_Lab02/actions/workflows/build.yml/badge.svg)](https://github.com/dialva98/ArquiSoft20262_Lab02/actions/workflows/build.yml)
